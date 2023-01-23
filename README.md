@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joita Khan</h1>
-<h3 align="center">I'm frontend developer from India</h3>
+<h3 align="center">I'm frontend developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="joita-khan" /> </p>
 
